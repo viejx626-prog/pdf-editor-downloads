@@ -4,7 +4,7 @@
 
 [下载 Windows 64 位版](https://github.com/viejx626-prog/pdf-editor-downloads/releases/latest/download/PDF.Editor.Windows.x64.zip) · [查看最新版本](https://github.com/viejx626-prog/pdf-editor-downloads/releases/latest)
 
-常用功能：修改 PDF 文字与图片、PDF 与 Word / Excel / PPT 转换、图片与 PDF 转换、合并拆分、压缩、整理页面、添加水印和页码。
+常用功能：修改 PDF 文字与图片、PDF 与 Word / Excel / PPT 转换、图片与 PDF 转换、合并拆分、压缩、整理页面、添加水印和页码、批量换图 / Logo。
 
 ## 三步开始
 
@@ -16,6 +16,6 @@
 
 ## 使用与维护
 
-点击软件左下角 **大胡子设计店**，扫码联系微信客服。
+点击软件左下角 **微信客服** 或 **大胡子设计店**，扫码联系使用、维护客服。
 
-当前版本：**2026.11.03.3**。完整软件请从上方下载链接获取。
+当前版本：**2026.11.05.3**。完整软件请从上方下载链接获取。
